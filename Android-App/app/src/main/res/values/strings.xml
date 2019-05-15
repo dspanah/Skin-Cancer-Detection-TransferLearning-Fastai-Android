@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skin Cancer Detector</string>
+    <string name="waiting">Detecting, please wait...</string>
+    <string name="internet_connection">Cannot access the server please check your internet connection</string>
+</resources>
